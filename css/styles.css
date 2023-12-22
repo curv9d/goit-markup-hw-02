@@ -27,11 +27,8 @@ body {
     font-weight: 500;
 }
 
+.navigation:focus,
 .navigation:hover {
-    color: #404bbf;
-}
-
-.navigation:focus {
     color: #404bbf;
 }
 
@@ -46,8 +43,8 @@ body {
     line-height: 1.5;
 }
 
-.feedback:hover, 
-.feedback:focus{
+.feedback:focus,
+.feedback:hover {
     color: #404bbf;
 }
 
@@ -77,8 +74,8 @@ body {
     cursor: pointer;
 }
 
-.order-section-button:hover, 
-.order-section-button:focus {
+.order-section-button:focus,
+.order-section-button:hover {
     color: #404bbf;
 }
 
@@ -111,7 +108,7 @@ body {
     text-transform: capitalize;
 }
 
-.team-section-img {
+.member-list-element {
     background-color: #FFFFFF;
 }
 
