@@ -60,7 +60,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.order-section-button {
+.order-button {
     background-color:#4D5AE5; 
     font-family: "Roboto", sans-serif;
     color: #FFFFFF;
@@ -72,9 +72,9 @@ body {
     cursor: pointer;
 }
 
-.order-section-button:focus,
-.order-section-button:hover {
-    color: #404bbf;
+.order-button:hover,
+.order-button:focus {
+    color: #404BBF;
 }
 
 .offer-section-offers {
