@@ -74,7 +74,7 @@ body {
 
 .order-button:hover,
 .order-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .offer-section-offers {
